@@ -1,3 +1,4 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/vova3211/submodule.git
+	branch = dev
